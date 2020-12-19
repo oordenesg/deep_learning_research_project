@@ -1,5 +1,5 @@
 # deep_learning_research_project
-202009 - Deep Learning models of my research Project
+202009 - Deep Learning models applied to the credit risk area - Research Project
 
 The use of artificial intelligence techniques have allowed the financial sector to apply algorithms and techniques that improve the predictive capacity of models in the area of credit risk. Additionally, the decrease in technological costs has allowed financial institutions to develop more robust models using a greater volume of data.
 
