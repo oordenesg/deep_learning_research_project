@@ -25,10 +25,12 @@ An exploratory analysis was carried out in order to know the characteristics of 
 - Categorical variables with low cardinality.
 - Customer information between the months of April and September 2016.
 
-
 The main insights obtained at this stage:
 
 - No outliers were found.
 - High proportion of non-default clients.
 - Categories without a clear description within some attributes.
 - There are dynamic variables that are highly correlated with each other.
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123530972-691c4700-d6ce-11eb-8d03-fc75708a102a.png" width = "600" height = "180">
+  </p>
