@@ -9,10 +9,26 @@ The second contribution of this study is the comparison between the three encodi
 
 The standard flow of any data science project was used in this project.
 
-![image](https://user-images.githubusercontent.com/76072249/123530853-2a39c180-d6cd-11eb-92f7-e911bd315fcb.png)
-
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123530853-2a39c180-d6cd-11eb-92f7-e911bd315fcb.png" width="600" height="120">
+</p>
 To measure the performance of the proposed models, the following metrics were used.
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123530871-50f7f800-d6cd-11eb-976f-fe0f2f7091ec.png" width = "600" height = "200">
+</p>
 
-![image](https://user-images.githubusercontent.com/76072249/123530871-50f7f800-d6cd-11eb-976f-fe0f2f7091ec.png)
+## Data Analysis
+
+An exploratory analysis was carried out in order to know the characteristics of the attributes. The data set contains.
+
+- 45,000 instances and 25 attributes. 3 categorical variables and 20 numerical variables.
+- Categorical variables with low cardinality.
+- Customer information between the months of April and September 2016.
 
 
+The main insights obtained at this stage:
+
+- No outliers were found.
+- High proportion of non-default clients.
+- Categories without a clear description within some attributes.
+- There are dynamic variables that are highly correlated with each other.
