@@ -25,6 +25,10 @@ An exploratory analysis was carried out in order to know the characteristics of 
 - Categorical variables with low cardinality.
 - Customer information between the months of April and September 2016.
 
+<p align="center">
+<img src ="https://user-images.githubusercontent.com/76072249/123530989-b3052d00-d6ce-11eb-95fa-3ff09217f67d.png" width = "400" height = "150">
+ </p>
+
 The main insights obtained at this stage:
 
 - No outliers were found.
