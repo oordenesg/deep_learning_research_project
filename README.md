@@ -13,11 +13,11 @@ The second contribution of this study is the comparison between the three encodi
 The standard flow of any data science project was used in this project.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123530853-2a39c180-d6cd-11eb-92f7-e911bd315fcb.png" width="600" height="120">
+<img src = "https://user-images.githubusercontent.com/76072249/123530853-2a39c180-d6cd-11eb-92f7-e911bd315fcb.png" width="500" height="120">
 </p>
 To measure the performance of the proposed models, the following metrics were used.
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123530871-50f7f800-d6cd-11eb-976f-fe0f2f7091ec.png" width = "600" height = "200">
+<img src = "https://user-images.githubusercontent.com/76072249/123530871-50f7f800-d6cd-11eb-976f-fe0f2f7091ec.png" width = "500" height = "160">
 </p>
 
 ## Data Analysis
@@ -29,7 +29,7 @@ An exploratory analysis was carried out in order to know the characteristics of 
 - Customer information between the months of April and September 2016.
 
 <p align="center">
-<img src ="https://user-images.githubusercontent.com/76072249/123530989-b3052d00-d6ce-11eb-95fa-3ff09217f67d.png" width = "400" height = "150">
+<img src ="https://user-images.githubusercontent.com/76072249/123530989-b3052d00-d6ce-11eb-95fa-3ff09217f67d.png" width = "360" height = "150">
  </p>
 
 The main insights obtained at this stage:
@@ -39,5 +39,20 @@ The main insights obtained at this stage:
 - Categories without a clear description within some attributes.
 - There are dynamic variables that are highly correlated with each other.
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123530972-691c4700-d6ce-11eb-8d03-fc75708a102a.png" width = "600" height = "180">
+<img src = "https://user-images.githubusercontent.com/76072249/123530972-691c4700-d6ce-11eb-8d03-fc75708a102a.png" width = "500" height = "180">
   </p>
+  
+## Data Transformation
+
+1. Encoding Techniques.
+  
+- The One-Hot, Frequency and Target Mean encoding techniques were applied in the three categorical variables.
+- ML and DP Algorithms performance vary based on the way in which the categorical data is encoded. How the results vary according to these techniques.
+
+2.Oversampling
+
+-Unbalanced data set. The SMOTE oversampling technique was applied in the minority class (default customers).
+-The goal was to prevent overfitting given the number of non-default customers.
+
+
+
