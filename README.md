@@ -93,7 +93,9 @@ The results showed that:
 - One-Hot encoding performed best (Again)
 - The network with 6 hidden layers obtained the best results
 
-
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123667049-c49e2000-d807-11eb-9a5e-690ff60df4ab.png" width = "420" height = "150">
+</p>
 
 
 
