@@ -76,6 +76,23 @@ The results showed that:
 - One-Hot encoding performed best
 - For the network with SMOTE, the best performance was obtained using a number of neurons similar to the amount of input
 
+## Data Modelling - Deep Neural Network (DNN)
+
+This model was developed using the insights obtained from the previous model.
+
+Evaluate different structures within the network
+Validate the use of the dropout technique
+Determine the most suitable encoding technique
+
+
+The results showed that:
+
+Dropout was not necessary. There were no signs of overfitting
+
+One-Hot encoding performed best (Again)
+
+The network with 6 hidden layers obtained the best results
+
 
 
 
