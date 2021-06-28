@@ -68,7 +68,7 @@ This base model allowed:
 - Determine the appropriate number of neurons
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123574405-c16e4a00-d79d-11eb-8290-07cf3cb79aa6.png" width = "430" height = "150">
+<img src = "https://user-images.githubusercontent.com/76072249/123574405-c16e4a00-d79d-11eb-8290-07cf3cb79aa6.png" width = "420" height = "150">
 </p>
 
 The results showed that:
@@ -88,7 +88,7 @@ This model was developed using the insights obtained from the previous model.
 - Determine the most suitable encoding technique
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123666680-6e30e180-d807-11eb-808b-38eda59b9267.png" width = "430" height = "150">
+<img src = "https://user-images.githubusercontent.com/76072249/123666680-6e30e180-d807-11eb-808b-38eda59b9267.png" width = "420" height = "150">
 </p>
 
 The results showed that:
