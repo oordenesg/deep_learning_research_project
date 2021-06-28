@@ -49,10 +49,18 @@ The main insights obtained at this stage:
 - The One-Hot, Frequency and Target Mean encoding techniques were applied in the three categorical variables.
 - ML and DP Algorithms performance vary based on the way in which the categorical data is encoded. How the results vary according to these techniques.
 
-2.Oversampling
+2. Oversampling
 
--Unbalanced data set. The SMOTE oversampling technique was applied in the minority class (default customers).
--The goal was to prevent overfitting given the number of non-default customers.
+- Unbalanced data set. The SMOTE oversampling technique was applied in the minority class (default customers).
+- The goal was to prevent overfitting given the number of non-default customers.
+
+
+3. 10-fold Crossvalidation
+
+- This process divided the dataset 10 into parts. Of all of them, 9 were used to train the model while the remaining set was used in the testing stage
+- The SMOTE oversampling technique was applied only within the training sets
+
+
 
 
 
