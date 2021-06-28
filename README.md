@@ -39,7 +39,7 @@ The main insights obtained at this stage:
 - Categories without a clear description within some attributes.
 - There are dynamic variables that are highly correlated with each other.
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123530972-691c4700-d6ce-11eb-8d03-fc75708a102a.png" width = "500" height = "180">
+<img src = "https://user-images.githubusercontent.com/76072249/123530972-691c4700-d6ce-11eb-8d03-fc75708a102a.png" width = "450" height = "180">
   </p>
   
 ## Data Transformation
@@ -82,6 +82,10 @@ This model was developed using the insights obtained from the previous model.
 - Evaluate different structures within the network
 - Validate the use of the dropout technique
 - Determine the most suitable encoding technique
+
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123666680-6e30e180-d807-11eb-808b-38eda59b9267.png" width = "430" height = "150">
+</p>
 
 The results showed that:
 
