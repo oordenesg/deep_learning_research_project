@@ -67,6 +67,10 @@ This base model allowed:
 - Verify the effectiveness of the SMOTE oversampling technique as well as the encoding techniques
 - Determine the appropriate number of neurons
 
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123574405-c16e4a00-d79d-11eb-8290-07cf3cb79aa6.png" width = "450" height = "150">
+</p>
+
 The results showed that:
 - SMOTE was necessary to prevent overfitting
 - One-Hot encoding performed best
