@@ -60,6 +60,18 @@ The main insights obtained at this stage:
 - This process divided the dataset 10 into parts. Of all of them, 9 were used to train the model while the remaining set was used in the testing stage
 - The SMOTE oversampling technique was applied only within the training sets
 
+## Data Modelling – Artificial Neural Network (ANN)
+
+This base model allowed:
+- Establish a baseline
+- Verify the effectiveness of the SMOTE oversampling technique as well as the encoding techniques
+- Determine the appropriate number of neurons
+
+The results showed that:
+- SMOTE was necessary to prevent overfitting
+- One-Hot encoding performed best
+- For the network with SMOTE, the best performance was obtained using a number of neurons similar to the amount of input
+
 
 
 
