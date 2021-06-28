@@ -68,13 +68,17 @@ This base model allowed:
 - Determine the appropriate number of neurons
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123574405-c16e4a00-d79d-11eb-8290-07cf3cb79aa6.png" width = "450" height = "150">
+<img src = "https://user-images.githubusercontent.com/76072249/123574405-c16e4a00-d79d-11eb-8290-07cf3cb79aa6.png" width = "430" height = "150">
 </p>
 
 The results showed that:
 - SMOTE was necessary to prevent overfitting
 - One-Hot encoding performed best
 - For the network with SMOTE, the best performance was obtained using a number of neurons similar to the amount of input
+
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123667299-04650780-d808-11eb-838c-e4d8917b79d0.png" width = "420" height = "150">
+</p>
 
 ## Data Modelling - Deep Neural Network (DNN)
 
