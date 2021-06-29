@@ -109,5 +109,10 @@ In this model the dynamic and static characteristics of the data were evaluated.
 - Determine the most suitable encoding technique
 
 
+The results showed that:
+- LSTM + DNN model is more accurate in identifying default customers (Compared to LSTM).
+- One-Hot encoding performed best (Again)
+- The categorical variables are relevant to identify the default clients.
+
 
 
