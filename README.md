@@ -101,5 +101,13 @@ The results showed that:
 <img src = "https://user-images.githubusercontent.com/76072249/123667049-c49e2000-d807-11eb-9a5e-690ff60df4ab.png" width = "420" height = "150">
 </p>
 
+## Data Modelling - Long Short Term Memory Model (LSTM)
+
+In this model the dynamic and static characteristics of the data were evaluated. This allowed us.
+- Validate the importance of categorical variables
+- Use the dynamic characteristics of customer credit information
+- Determine the most suitable encoding technique
+
+
 
 
