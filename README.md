@@ -108,6 +108,8 @@ In this model the dynamic and static characteristics of the data were evaluated.
 - Use the dynamic characteristics of customer credit information
 - Determine the most suitable encoding technique
 
+<img src = "https://user-images.githubusercontent.com/76072249/123881359-7aee2c00-d912-11eb-8c65-740a63cf60cb.png" width = "420" height = "150">
+
 
 The results showed that:
 - LSTM + DNN model is more accurate in identifying default customers (Compared to LSTM).
