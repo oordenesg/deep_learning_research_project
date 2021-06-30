@@ -126,7 +126,7 @@ The results showed that:
 - The Deep Learning models performed better compared to the base ANN model. 
 - The ANN model demonstrated that the use of the SMOTE oversampling technique is suitable for this project.
 - In general, the network with six hidden layers had the highest performance in all evaluation metrics.
-
-
+- In all models, One-Hot encoding is the most suitable technique for this dataset.
+- LSTM and LSTM-DNN models, on average, are 4 times more expensive during the training stage compared to the DNN model with six neurons.
 
 
