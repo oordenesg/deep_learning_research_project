@@ -123,6 +123,10 @@ The results showed that:
 
 ## Results
 
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123967273-27b4c180-d984-11eb-89fc-64435f8680a0.png" width = "420" height = "150">
+</p>
+
 - The Deep Learning models performed better compared to the base ANN model. 
 - The ANN model demonstrated that the use of the SMOTE oversampling technique is suitable for this project.
 - In general, the network with six hidden layers had the highest performance in all evaluation metrics.
