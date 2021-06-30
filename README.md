@@ -126,6 +126,9 @@ The results showed that:
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/76072249/123967273-27b4c180-d984-11eb-89fc-64435f8680a0.png" width = "420" height = "150">
 </p>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/76072249/123967411-4915ad80-d984-11eb-8737-dcca1e47acc2.png" width = "420" height = "150">
+</p>
 
 - The Deep Learning models performed better compared to the base ANN model. 
 - The ANN model demonstrated that the use of the SMOTE oversampling technique is suitable for this project.
