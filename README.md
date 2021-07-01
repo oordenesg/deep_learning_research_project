@@ -136,4 +136,11 @@ The results showed that:
 - In all models, One-Hot encoding is the most suitable technique for this dataset.
 - LSTM and LSTM-DNN models, on average, are 4 times more expensive during the training stage compared to the DNN model with six neurons.
 
+## Conclusion
+
+- One of the main contributions of this project was to have addressed the different limitations found in various studies that used this dataset.
+- The models proposed and applied in this project are suitable for the credit risk industry.
+- The encoding techniques were only applied in the categorical attributes. However, these techniques could also have been applied in numerical variables such as Age.
+
+
 
