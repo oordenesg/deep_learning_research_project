@@ -76,19 +76,21 @@ The results showed that:
 - One-Hot encoding performed best
 - For the network with SMOTE, the best performance was obtained using a number of neurons similar to the amount of input
 
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123667299-04650780-d808-11eb-838c-e4d8917b79d0.png" width = "420" height = "150">
-</p>
+
+#### Table 2: ANN model results
+ 
+| Oversampling | Encoding       | Accuracy Test | ROC AUC |Precision| Recall |F1     | PR AUC|
+| :---         |     :---:      |      :---:    | :---:   |  :---:  | :---:  |:---:  | :---: |
+| No SMOTE     | Target Mean    |81.7%          |77.4%    |64.4%    |39.9%   |49.3%  |58.9%  |
+| No SMOTE     | Frequency      |81.7%          |77.4%    |64.9%    |39.6%   |49.1%  |59.0%  |
+| No SMOTE     | One-Hot        |81.8%          |77.6%    |65.1%    |39.7%   |49.3%  |59.1%  |
+| SMOTE        | Target Mean    |75.3%          |79.4%    |46.4%    |66.9%   |54.8%  |60.4%  |
+| SMOTE        | Frequency      |75.0%          |79.4%    |45.4%    |66.4%   |54.3%  |59.9%  |
+| SMOTE        | One-Hot        |75.0%          |79.8%    |46.0%    |67.7%   |54.7%  |60.4%  |
 
 
-| Oversampling | Encoding       | Accuracy Test | ROC AUC |
-| :---         |     :---:      |      :---:    | :---:   |
-| No SMOTE     | Target Mean    |81.7%          |77.4%    |
-| No SMOTE     | Frequency      |81.7%          |77.4%    |
-| No SMOTE     | One-Hot        |81.8%          |77.6%    |
-| SMOTE        | Target Mean    |75.3%          |79.4%    |
-| SMOTE        | Frequency      |75.0%          |79.4%    |
-| SMOTE        | One-Hot        |75.0%          |79.8%    |
+
+
 
 ## Data Modelling - Deep Neural Network (DNN)
 
