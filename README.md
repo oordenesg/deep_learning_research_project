@@ -141,6 +141,10 @@ The results showed that:
 - One of the main contributions of this project was to have addressed the different limitations found in various studies that used this dataset.
 - The models proposed and applied in this project are suitable for the credit risk industry.
 - The encoding techniques were only applied in the categorical attributes. However, these techniques could also have been applied in numerical variables such as Age.
+- In terms of oversampling techniques, there are other methods like ADASYN that can be analysed.
+- Expand the range of values for hyperparameters and use more activation functions.
+- Evaluate the application of an autoencoder model to detect anomalies.
+
 
 
 
