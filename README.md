@@ -80,6 +80,16 @@ The results showed that:
 <img src = "https://user-images.githubusercontent.com/76072249/123667299-04650780-d808-11eb-838c-e4d8917b79d0.png" width = "420" height = "150">
 </p>
 
+
+| Oversampling | Encoding       | Accuracy Test | ROC AUC |
+| :---         |     :---:      |      :---:    | :---:   |
+| No SMOTE     | Target Mean    |81.7%          |77.4%    |
+| No SMOTE     | Frequency      |81.7%          |77.4%    |
+| No SMOTE     | One-Hot        |81.8%          |77.6%    |
+| SMOTE        | Target Mean    |75.3%          |79.4%    |
+| SMOTE        | Frequency      |75.0%          |79.4%    |
+| SMOTE        | One-Hot        |75.0%          |79.8%    |
+
 ## Data Modelling - Deep Neural Network (DNN)
 
 This model was developed using the insights obtained from the previous model.
