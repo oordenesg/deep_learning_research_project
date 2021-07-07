@@ -109,10 +109,6 @@ The results showed that:
 - One-Hot encoding performed best (Again)
 - The network with 6 hidden layers obtained the best results
 
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123667049-c49e2000-d807-11eb-9a5e-690ff60df4ab.png" width = "420" height = "150">
-</p>
-
 #### Table 3: DNN model results
 | Dropout      | Hidden Layers  | Encoding      |Accuracy Test| ROC AUC |Precision| Recall |F1     | PR AUC|
 | :---         |     :---:      |      :---:    |    :---:    | :---:   |  :---:  | :---:  |:---:  | :---: |
@@ -140,9 +136,6 @@ The results showed that:
 - One-Hot encoding performed best (Again)
 - The categorical variables are relevant to identify the default clients.
 
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/76072249/123881413-9fe29f00-d912-11eb-8368-f6526d99073d.png" width = "420" height = "150">
-</p>
 
 #### Table 4: LSTM model results
 | Metric      | LSTM | LSTM + DNN Target Mean |LSTM + DN Frequency| LSTM + DNN One-Hot|
