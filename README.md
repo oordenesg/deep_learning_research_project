@@ -113,6 +113,17 @@ The results showed that:
 <img src = "https://user-images.githubusercontent.com/76072249/123667049-c49e2000-d807-11eb-9a5e-690ff60df4ab.png" width = "420" height = "150">
 </p>
 
+
+| Dropout      | Hidden Layers  | Encoding      |Accuracy Test| ROC AUC |Precision| Recall |F1     | PR AUC|
+| :---         |     :---:      |      :---:    |    :---:    | :---:   |  :---:  | :---:  |:---:  | :---: |
+| No           | 2              |One-Hot        |74.9%        |82.9%    |46.2%    |75.0%   |57.1%  |63.4%  |
+| Yes          | 2              |One-Hot        |78.5%        |79.1%    |51.7%    |57.9%   |54.6%  |59.5%  |
+| No           | 4              |One-Hot        |77.9%        |87.3%    |50.3%    |83.8%   |62.8%  |68.8%  |
+| Yes          | 4              |One-Hot        |78.9%        |78.7%    |52.6%    |57.8%   |55.0%  |59.9%  |
+| No           | 6              |One-Hot        |78.9%        |89.6%    |51.6%    |91.1%   |65.9%  |72.4%  |
+| Yes          | 6              |One-Hot        |78.9%        |78.7%    |52.6%    |57.8%   |55.0%  |59.9%  |
+
+
 ## Data Modelling - Long Short Term Memory Model (LSTM)
 
 In this model the dynamic and static characteristics of the data were evaluated. This allowed us.
