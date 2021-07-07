@@ -113,7 +113,7 @@ The results showed that:
 <img src = "https://user-images.githubusercontent.com/76072249/123667049-c49e2000-d807-11eb-9a5e-690ff60df4ab.png" width = "420" height = "150">
 </p>
 
-
+#### Table 3: DNN model results
 | Dropout      | Hidden Layers  | Encoding      |Accuracy Test| ROC AUC |Precision| Recall |F1     | PR AUC|
 | :---         |     :---:      |      :---:    |    :---:    | :---:   |  :---:  | :---:  |:---:  | :---: |
 | No           | 2              |One-Hot        |74.9%        |82.9%    |46.2%    |75.0%   |57.1%  |63.4%  |
@@ -143,6 +143,16 @@ The results showed that:
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/76072249/123881413-9fe29f00-d912-11eb-8368-f6526d99073d.png" width = "420" height = "150">
 </p>
+
+#### Table 4: LSTM model results
+| Metric      | LSTM | LSTM + DNN Target Mean |LSTM + DN Frequency| LSTM + DNN One-Hot|
+| :---        |:---: | :---:                  |    :---:          | :---:             | 
+| Accuracy    |77.1% |76.2%                   |76.0%              |75.8%              |
+| ROC AUC     |82.6% |83.4%                   |83.3%              |83.8%              |
+| Precision   |49.2% |48.0%                   |47.7%              |47.4%              |
+| Recall      |70.2% |73.4%                   |73.9%              |75.6%              |
+| F1          |57.8% |58.0%                   |57.9%              |58.2%              |
+| PRC AUC     |63.0% |63.7%                   |63.8%              |64.2%              |
 
 ## Results
 
