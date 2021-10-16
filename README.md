@@ -88,6 +88,7 @@ The results showed that:
 | SMOTE        | Frequency      |75.0%          |79.4%    |45.4%    |66.4%   |54.3%  |59.9%  |
 | SMOTE        | One-Hot        |75.0%          |79.8%    |46.0%    |67.7%   |54.7%  |60.4%  |
 
+Having  validated  the  relevance  of  oversampling,  we  eval-uated  the  importance  of  the  categorical  variables  in  the  dataset with SMOTE. To do this, we removed the non-numericalattributes  and  evaluated  neural  networks  with  8,  15  and  21hidden layers.
 
 #### Table 3: ANN model results without categorical variables
  
@@ -100,7 +101,6 @@ The results showed that:
 | F1        | 45.3%               |48.3%                 |51.2%                |
 | PRC       | 49.5%               |75.0%                 |54.9%                |
 
-ACC (%)67.871.273.0ROC (%)70.172.374.3Prec. (%)38.340.843.4Recall (%)55.559.362.6F1 (%)45.348.351.2PRC (%)49.551.354.9Kappa0.320.340.37
 
 
 ## Data Modelling - Deep Neural Network (DNN)
