@@ -89,7 +89,18 @@ The results showed that:
 | SMOTE        | One-Hot        |75.0%          |79.8%    |46.0%    |67.7%   |54.7%  |60.4%  |
 
 
+#### Table 3: ANN model results without categorical variables
+ 
+| Metric    | ANN 8 Hidden Layers | ANN 15 Hidden Layers | ANN 21 Hidden Layers|
+| :---      |     :---:           |      :---:           | :---:               | 
+| Accuracy  | 67.8%               |71.2%                 |73.0%                |
+| ROC       | 70.1%               |72.3%                 |74.3%                |
+| Precision | 38.3%               |40.8%                 |43.4%                |
+| Recall    | 55.5%               |59.3%                 |62.6%                |
+| F1        | 45.3%               |48.3%                 |51.2%                |
+| PRC       | 49.5%               |75.0%                 |54.9%                |
 
+ACC (%)67.871.273.0ROC (%)70.172.374.3Prec. (%)38.340.843.4Recall (%)55.559.362.6F1 (%)45.348.351.2PRC (%)49.551.354.9Kappa0.320.340.37
 
 
 ## Data Modelling - Deep Neural Network (DNN)
